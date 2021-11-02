@@ -1,2 +1,2 @@
-# dsa-finalproject
+# dsa-finalproject (Shoe Cleaning System)
 Data Structure and Algorithm Final Project_Shoe cleaning System
